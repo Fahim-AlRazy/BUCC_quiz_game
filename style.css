@@ -88,7 +88,7 @@ body {
   color: white;
   font-size: 1.3rem;
   font-weight: 600;
-  margin-top: 8px;
+  margin-top: 5px;
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   white-space: nowrap;
 }
@@ -211,7 +211,6 @@ button:hover {
   border-color: #f44336;
 }
 
-
 /* abort */
 
 .abort-btn {
@@ -268,7 +267,6 @@ button:hover {
 .timer-display.visible {
   display: block;
 }
-
 
 @media (max-width: 500px) {
   body {
